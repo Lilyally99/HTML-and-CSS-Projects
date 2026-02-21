@@ -1,0 +1,9 @@
+body {
+  background-color: yellow !important;
+}
+
+p {
+  color: purple !important;
+  text-align: center !important;
+  font-size: 24px !important;
+}
