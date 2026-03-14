@@ -1,13 +1,23 @@
-# HTML-and-CSS-Projects
-A collection of HTML and CSS projects completed as part of my web development course.
-# HTML and CSS Projects
+# HTML & CSS Course Projects
 
-This repository contains a collection of HTML and CSS projects created as part of my web development course.
+This repository contains projects created during my HTML and CSS course. The projects demonstrate my understanding of webpage structure, styling, and responsive design.
 
-The purpose of this repository is to:
-- Practice writing clean and structured HTML
-- Apply CSS styling and layout techniques
-- Build small projects to strengthen front-end development skills
+## Projects Included
 
-Each project will be stored in its own folder and will include all necessary files such as HTML, CSS, and assets.
+### Basic HTML Website
+This project focuses on the fundamentals of HTML including headings, paragraphs, links, images, and lists.
 
+### Academy Cinemas Website
+A movie theater themed website built using Bootstrap. It includes a navigation bar, movie cards, and showtimes.
+
+### CSS Styling Project
+This project demonstrates the use of CSS to style webpages, including colors, layout, spacing, and typography.
+
+## Technologies Used
+- HTML5
+- CSS3
+- Bootstrap
+- GitHub
+
+## Purpose
+This repository showcases my early front-end development projects and demonstrates my ability to build and style responsive web pages.
